@@ -1,0 +1,2 @@
+1. proof: None
+2. Time complexity analysis: O(n), I don't want to prove.what a pity..

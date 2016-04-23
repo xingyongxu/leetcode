@@ -1,5 +1,9 @@
 import math
 class Solution(object):
+'''
+for sigma Ai = M, if Ai == Aj for any i,j,  products got the extremum. but there're exceptions
+2**3 < 3**2   and  3**4 > 4 ** 3, so need replace the partation.
+'''
     def __init__(s):
         s.par = []
     def integerBreak(s, n):
